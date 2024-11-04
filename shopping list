@@ -1,0 +1,34 @@
+html>
+<head>
+<title>hello</title>
+</head>
+<body>
+<font color="red">
+<ol type="a">
+<li>coffee</li>
+<li>maggie</li>
+<li>juice</li>
+<li>tea</li>
+</font color="red">
+<font color="blue">
+<ul type="disc">
+<li>pizza</li>
+<li>burger</li>
+<li>sandwitch</li>
+<li>dosa</li>
+</font color="blue">
+<font color="violet">
+<dl type ="square">
+<dt>html</dt>
+<dd>hyper text markup language</dd>
+<dt>milk</dt>
+<dd>vita milk 2l full cream</dd>
+</font color="violet">
+<font color="green">
+<ol>
+<li>coffee</li>
+<ul type="circle">
+<li>hot coffee</li>
+<li>cold coffee</li>
+<li>coffee latte</li>
+<video autoplay controls src="C:\Users\Gauri\OneDrive\Desktop\5948574-uhd_3840_2160_30fps.mp4" height="100px" type=".mp4" loop="5">
