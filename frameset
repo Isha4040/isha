@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>form</title>
+</head>
+<frameset rows="50,50" border="5" frameborder="yes" framespacing="15">
+<frame src="https://www.bing.com/search?q=doremon&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=doremon&sc=12-7&sk=&cvid=BD60E78E740A45C3AB6193ADE69FB128&ghsh=0&ghacc=0&ghpl= " marginwidth="4" marginheight="5" scrolling="yes">
+<frameset cols="50,50">
+<frame src="https://www.bing.com/search?q=doremon&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=doremon&sc=12-7&sk=&cvid=BD60E78E740A45C3AB6193ADE69FB128&ghsh=0&ghacc=0&ghpl= " name="row1_col1">
+<frame src="https://www.bing.com/search?q=doremon&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=doremon&sc=12-7&sk=&cvid=BD60E78E740A45C3AB6193ADE69FB128&ghsh=0&ghacc=0&ghpl= " name="row2_col2">
+</frameset>
+</html>
